@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+PyPDF2
+tqdm
+pandas
+numpy
+faiss-cpu; platform_system!='Windows'
